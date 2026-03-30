@@ -1,19 +1,3 @@
-"""
-Projeto: classificador simples de mensagens de suporte
-
-Como funciona:
-- usa regras por palavras-chave
-- compara o texto digitado com categorias conhecidas
-- escolhe a categoria com maior pontuação
-
-Categorias do exemplo:
-- login
-- vistoria
-- entrega_chaves
-- chamado
-- financeiro
-"""
-
 from dataclasses import dataclass
 from typing import Dict, List, Tuple
 import re
