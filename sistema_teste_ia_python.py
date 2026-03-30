@@ -50,6 +50,8 @@ class ClassificadorSimplesIA:
                 "unidade",
                 "inspecao",
                 "cliente",
+                "sincronizacao",
+                "sincronização",
             ],
             "entrega_chaves": [
                 "chaves",
@@ -80,6 +82,28 @@ class ClassificadorSimplesIA:
                 "relatorio",
                 "divergencia",
                 "taxa",
+            ],
+            "manutencao": [
+            "manutenção",
+            "manutencao",
+            "preventiva",
+            "plano",
+            "planos",
+            "sistema construtivo",
+            "construtivo",
+            "empreendimento",
+            ],
+            "chamado": [
+            "chamado",
+            "erro",
+            "anexo",
+            "arquivo",
+            "painel",
+            "solicitacao",
+            "tecnico",
+            "salvar",
+            "excluir",
+            "remover",
             ],
         }
 
